@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_Audits", "SSIS_Audits.dtproj", "{EC72456A-7B3D-4310-B959-8EEA3FD3C28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC72456A-7B3D-4310-B959-8EEA3FD3C28A}.Development|Default.ActiveCfg = Development
+		{EC72456A-7B3D-4310-B959-8EEA3FD3C28A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0FC9A20-5B6E-4373-9154-6BE536C46D24}
+	EndGlobalSection
+EndGlobal
